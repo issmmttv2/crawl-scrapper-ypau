@@ -14,8 +14,8 @@ from selenium.common.exceptions import (TimeoutException,
                                      NoSuchElementException,
                                      WebDriverException)
 
-INPUT_FILE = 'aus-reno.csv'
-OUTPUT_FILE = 'business_emails_final.csv'
+INPUT_FILE = ''
+OUTPUT_FILE = 'final.csv'
 DELAY = random.uniform(1,3)
 MAX_RETRIES = 2
 HEADLESS = False
