@@ -1,1 +1,1 @@
-python-web-scrapper
+python-web-scrapper-and-crawler
